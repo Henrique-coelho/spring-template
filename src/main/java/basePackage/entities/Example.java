@@ -8,7 +8,7 @@ import javax.persistence.*;
 
 @Getter
 @Setter
-@Table(name = "Produto")
+@Table(name = "Example")
 @NoArgsConstructor
 public class Example extends BaseEntity {
 
